@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31903.59
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array 5_2_1", "Array 5_2\Array 5_2_1.csproj", "{3D851F51-E498-4576-A3CA-FD81BF3DF19F}"
 EndProject
@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array 5_2_2", "Array 5_2_2\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array 5_2_3", "Array 5_2_3\Array 5_2_3.csproj", "{45EA4020-4B2C-480C-BDA4-7379195E2502}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_5_2_4", "Array_5_2_4\Array_5_2_4.csproj", "{A8426F5B-61AE-4941-ADF2-382DB599AFF6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array 5_2_4", "Array_5_2_4\Array 5_2_4.csproj", "{A8426F5B-61AE-4941-ADF2-382DB599AFF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array 5_2_6", "Array 5_2_6\Array 5_2_6.csproj", "{CA45737B-EDFE-43F9-BD38-F35720A91BDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A8426F5B-61AE-4941-ADF2-382DB599AFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8426F5B-61AE-4941-ADF2-382DB599AFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8426F5B-61AE-4941-ADF2-382DB599AFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA45737B-EDFE-43F9-BD38-F35720A91BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA45737B-EDFE-43F9-BD38-F35720A91BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA45737B-EDFE-43F9-BD38-F35720A91BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA45737B-EDFE-43F9-BD38-F35720A91BDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
