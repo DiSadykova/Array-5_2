@@ -12,7 +12,7 @@ namespace Array_5_2
         {
             int i = 0, Sum = 0 ;
             int[] array=new int[7];
-            for (; i <= 6; ++i)
+            for (; i < 7; ++i)
             {
                 Console.WriteLine("Введите элемент Array[{0}]", i);
                 array[i] = Convert.ToInt32(Console.ReadLine());
